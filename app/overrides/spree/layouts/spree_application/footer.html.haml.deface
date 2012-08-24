@@ -1,0 +1,5 @@
+/ replace_contents '#footer-left'
+%p
+  copyright
+  = link_to 'Mounce Endodontic', 'http://www.mounceendo.com'
+  &copy;2012
